@@ -18,4 +18,4 @@ The Language Model Blog Content Generator is an innovative project that leverage
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/project.git
+   git clone https://github.com/NitinDatta8/Blog-Generation-LLM.git
