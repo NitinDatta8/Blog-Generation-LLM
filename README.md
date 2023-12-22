@@ -8,7 +8,7 @@ The Language Model Blog Content Generator is an innovative project that leverage
   
 ## Features
 
-- [ ] Add new models such as Mistral and GPT3
+- [x] Add new models such as Falcon and GPT2
 - [ ] Try different prompting styles
 - [ ] Add different styles such as funny, poetic, focused, factual
 - [ ] Put it to production
